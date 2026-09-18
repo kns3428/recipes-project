@@ -8,7 +8,7 @@ h1 {
     text-align: center;
     background-color: rgb(224, 176, 99);
     width: 400px;
-    margin-bottom: 30px auto;
+    margin-bottom: auto;
     padding-left: 30px;
 }
 
@@ -38,6 +38,4 @@ button {
     display: block;
     border: 20px;
     margin: auto;
-    padding-top: 15px;
-    padding-left: 25px;
 }
