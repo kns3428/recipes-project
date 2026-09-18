@@ -12,7 +12,7 @@ h1 {
 }
 
 img {
-    margin: auto;
+    margin: center;
 }
 
 .blurb {
@@ -25,4 +25,5 @@ button {
     background-color: rgb(99, 193, 224);
     border: 20px;
     font-size: 20px;
+    margin: center;
 }
