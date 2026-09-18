@@ -4,9 +4,10 @@
 }
 
 h1 {
-    text-align: center;
     font-size: 40px;
+    text-align: center;
     background-color: rgb(224, 176, 99);
+    width: 400px;
     margin-bottom: 30px auto;
     padding-left: 30px;
 }
@@ -25,16 +26,18 @@ img {
 }
 
 h3 {
-    color: rgb(187, 72, 0);
     text-align: center;
+    color: rgb(187, 72, 0);
+    margin-top: 25px
 }
 
 button {
+    font-size: 20px;
     color: darkblue;
     background-color: rgb(224, 176, 99);
+    display: block;
     border: 20px;
-    font-size: 20px;
     margin: auto;
     padding-top: 15px;
-    padding-left: 25px
+    padding-left: 25px;
 }
