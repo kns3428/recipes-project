@@ -11,6 +11,10 @@ h1 {
     padding-left: 30px;
 }
 
+.item{
+    margin-bottom: 15px;
+}
+
 img {
     margin: center;
 }
