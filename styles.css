@@ -1,9 +1,12 @@
 * {
     font-family: "Times New Roman", sans-serif;
+    font-size: 20px;
 }
 
 h1 {
     text-align: auto;
+    font-size: 40px;
     background-color: lightblue;
+    margin-bottom: 30px;
 }
 
